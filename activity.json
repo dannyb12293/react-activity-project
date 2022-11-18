@@ -1,0 +1,49 @@
+{
+  "Activities": [
+    {
+      "title": "Morning Walk",
+      "body": "We walked this morning",
+      "type": "walk",
+      "date": "2022-11-08",
+      "distance": "3 Mi",
+      "duration": "1 hour",
+      "id": 1
+    },
+    {
+      "title": "Morning ride",
+      "body": "Ride with Jose",
+      "type": "cycling",
+      "date": "2022-11-15",
+      "distance": "10 Mi",
+      "duration": "2 hours",
+      "id": 2
+    },
+    {
+      "title": "BDR",
+      "body": "Best damn race half marathon",
+      "type": "run",
+      "date": "2022-11-15",
+      "distance": "13.1 Mi",
+      "duration": "2 hours",
+      "id": 3
+    },
+    {
+      "title": "group run",
+      "body": "group run this morning",
+      "type": "run",
+      "date": "2022-11-15",
+      "distance": "3 Mi",
+      "duration": "60 mins",
+      "id": 4
+    },
+    {
+      "title": "Crunch Gym",
+      "body": "Workout arms and legs",
+      "type": "strength",
+      "date": "2022-11-02",
+      "distance": "",
+      "duration": "1 hour",
+      "id": 5
+    }
+  ]
+}
